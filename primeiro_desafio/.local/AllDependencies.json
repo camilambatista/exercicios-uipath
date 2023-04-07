@@ -20629,9 +20629,9 @@
     "restore": {
       "projectUniqueName": "primeiro_desafio",
       "projectName": "primeiro_desafio",
-      "projectPath": "C:\\Users\\Camila Batista\\OneDrive\\Documentos\\4. Estudos\\10. UiPath\\primeiro_desafio\\.local",
+      "projectPath": "C:\\Users\\Camila Batista\\OneDrive\\Documentos\\4. Estudos\\10. UiPath\\Exercícios\\primeiro_desafio\\.local",
       "packagesPath": "C:\\Users\\Camila Batista\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Camila Batista\\OneDrive\\Documentos\\4. Estudos\\10. UiPath\\primeiro_desafio\\.local",
+      "outputPath": "C:\\Users\\Camila Batista\\OneDrive\\Documentos\\4. Estudos\\10. UiPath\\Exercícios\\primeiro_desafio\\.local",
       "fallbackFolders": [
         "C:\\Users\\Camila Batista\\AppData\\Local\\UiPath\\NugetFallbackFolder",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J6+HJnJuJ1lsNIZ8E76fcDkGniXYtNA//fdyyOQ0j5l5fE5bc7qNQATuhX/9NMfjEzdEn8mE+SNlFqikMp502A==",
+  "dgSpecHash": "GrYqyGPlpmuQqLEsWmm0O1kqtQy7lpqUlFt/SrTNWMoV5m7ra3arblJUcPEGrUfVwqybpRrk/NEJ3LzTNrbdYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Camila Batista\\OneDrive\\Documentos\\4. Estudos\\10. UiPath\\primeiro_desafio\\.local\\",
+  "projectFilePath": "C:\\Users\\Camila Batista\\OneDrive\\Documentos\\4. Estudos\\10. UiPath\\Exercícios\\primeiro_desafio\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Camila Batista\\AppData\\Local\\UiPath\\NugetFallbackFolder\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Camila Batista\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
