@@ -87,7 +87,7 @@
             </sap:WorkflowViewStateService.ViewState>
             <ui:UiElementExists DisplayName="Element Exists 'SPAN'" Exists="[out_Existe]" sap:VirtualizedContainerService.HintSize="388,107" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
               <ui:UiElementExists.Target>
-                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="e2196837-8d26-477d-a3d8-54200780dc6b" InformativeScreenshot="e0b87ab9e5458e8be211ffca98f565e5" Selector="&lt;html app='msedge.exe' title='AAARobotic Process Automation - Pesquisa Google' /&gt;&lt;webctrl parentid='hdtb-msb' tag='SPAN' /&gt;">
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="e2196837-8d26-477d-a3d8-54200780dc6b" InformativeScreenshot="e0b87ab9e5458e8be211ffca98f565e5" Selector="&lt;html app='msedge.exe' title='Robotic Process Automation - Pesquisa Google' /&gt;&lt;webctrl parentid='hdtb-msb' tag='SPAN' /&gt;">
                   <ui:Target.TimeoutMS>
                     <InArgument x:TypeArguments="x:Int32" />
                   </ui:Target.TimeoutMS>
