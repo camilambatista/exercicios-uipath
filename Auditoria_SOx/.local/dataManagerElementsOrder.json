@@ -1,0 +1,44 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dataPromocao&Sequence_3",
+        "gerenciaProducao&Sequence_3",
+        "promovidoPor&Sequence_3",
+        "versaoPromocao&Sequence_3",
+        "dataAceitacao&Sequence_3",
+        "aceitoPor&Sequence_3",
+        "dataHomolog&Sequence_3",
+        "gerenciaHomolog&Sequence_3",
+        "nomeHomologador&Sequence_3",
+        "dataLiberacaoHomolog&Sequence_3",
+        "terminoTestes&Sequence_3",
+        "inicioTestes&Sequence_3",
+        "gerenciaTestes&Sequence_3",
+        "nomeTester&Sequence_3",
+        "dataLiberacaoTestes&Sequence_3",
+        "terminoDev&Sequence_3",
+        "inicioDev&Sequence_3",
+        "gerenciaDev&Sequence_3",
+        "nomeDesenvolvedor&Sequence_3",
+        "dataSolicitacao&Sequence_3",
+        "gerSolicitante&Sequence_3",
+        "nomeSolicitante&Sequence_3",
+        "numeroDemanda&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
